@@ -2,19 +2,8 @@
 
 Q.	Introduce the selected “Data Set” from the [awesome-datascience] GitHub (with the data source URL) and describe its potential applications and values.
 
-URL: https://catalog.data.gov/dataset
-Data.gov was launched in 2009 by U.S. General Services Administration, Technology Transformation Service (https://www.data.gov/about). Essentially, research and work done under the U.S. government that can be made public are accessed in Data.gov. Data can be filtered from the following categories:
-*Location
-*Topics
-*Topic Category
-*Dataset Type (Geospatial or Non-Geospatial)
-*Tags
-*Formats (CSV, HTML, etc.)
-*Organization Types (Federal, State, City, etc.)
-*Organizations
-*Publishers
-*Bureaus
-If you don’t know what data you want, the filters are helpful in finding a data set you may like. Potential applications can range from data synthesizing results from different organizations, publishers, etc. to data analysis of a particular subject in one data set. Another very useful application is finding relevant geospatial data that is available to practice with. 
+[https://www.kaggle.com/datasets/arashnic/the-depression-dataset]
+The dataset contains values like timestamp (one minute intervals), date (date of measurement), activity (activity measurement from the actigraph watch).Also,there are patient identifier, days (number of days of measurements), gender (1 or 2 for female or male), age (age in age groups),marriage (1: married or cohabiting, 2: single), work (1: working or studying, 2: unemployed/sick leave/pension)etc. Its potential applications are to find different depression states to indentify its intensity. We can also look for sleep pattern analysis.
 
 Q.	Introduce ONE selected “free-data-science-book” with URL and the author/institute information. Explain briefly about why you like this book.
 
